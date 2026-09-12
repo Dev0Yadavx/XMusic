@@ -1,0 +1,6 @@
+{
+  "name": "XMusic",
+  "description": "Stream, search, and play music with dynamic M3 queue, player, and background notifications.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
